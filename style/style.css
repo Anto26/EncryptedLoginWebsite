@@ -1,0 +1,8 @@
+/* Change default borders colours of forms*/
+.form-control:focus,
+.form-select:focus,
+input[type="search"]:focus
+{   
+	border-color: #DC3545;
+	box-shadow: 0 0 0 0.1rem #DCA7AC;
+}
